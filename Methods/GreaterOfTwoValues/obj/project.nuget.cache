@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJrQXljOYABxw9DLVkuG98wH1lgF2fSr8J1bCUyV57yPGUKVsbkfCEr60Lj4WDnC++DoGBjrLTGaIzdE4Js6GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Methods\\GreaterOfTwoValues\\GreaterOfTwoValues.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

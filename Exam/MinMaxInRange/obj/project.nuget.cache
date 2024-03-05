@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "92tOvuYmYPfFRkKzjaT7o5/ylMOY6iFvX0Va/31lJKQ6APY3RBvDtUGZ/E/OrpKXjwP8DGUq1/5ZUh3CjklRoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Exam\\MinMaxInRange\\MinMaxInRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumbersFromNТo1.exe
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumbersFromNТo1.deps.json
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumbersFromNТo1.runtimeconfig.json
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumbersFromNТo1.dll
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\bin\Debug\net6.0\NumbersFromNТo1.pdb
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.AssemblyInfo.cs
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.dll
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\refint\NumbersFromNТo1.dll
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.pdb
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\NumbersFromNТo1.genruntimeconfig.cache
+C:\Users\Fori\source\repos\NestedLoops\NestedLoops\obj\Debug\net6.0\ref\NumbersFromNТo1.dll

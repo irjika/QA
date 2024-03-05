@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aQiLijL+ZPOw6rZKGay3HBV2wXptlvI/DEt3zIJDJtA+6AuVOG+auCwENfyM1D8JW07qg8cgWO7oTXlIGxWcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\NestedLoops\\NumberPyramid\\NumberPyramid.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

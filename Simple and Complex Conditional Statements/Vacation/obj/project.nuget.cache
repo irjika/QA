@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mtGR983AJFAOEDAio5rPM1p4GMh3PmeeuoKUMQOUAfPgSgMpj2df1v64kWWh27G9WhhY/dk5yg8mjY0OE9U8dg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Simple and Complex Conditional Statements\\Vacation\\Vacation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

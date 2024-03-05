@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DWlXM1ylK4V3qG2006k9IUtbV8CtLhAeaqt0Xtwr2RQ6+kel9TZg4QLMYHu/5ZL42p8vXh5BDockGi3wr6fBtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\DTVSC Exercise\\DTVSC Exercise\\ReversedNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Methods\Grade\bin\Debug\net6.0\Grade.exe
+C:\Users\Fori\source\repos\Methods\Grade\bin\Debug\net6.0\Grade.deps.json
+C:\Users\Fori\source\repos\Methods\Grade\bin\Debug\net6.0\Grade.runtimeconfig.json
+C:\Users\Fori\source\repos\Methods\Grade\bin\Debug\net6.0\Grade.dll
+C:\Users\Fori\source\repos\Methods\Grade\bin\Debug\net6.0\Grade.pdb
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.dll
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\refint\Grade.dll
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.pdb
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\Grade.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Methods\Grade\obj\Debug\net6.0\ref\Grade.dll

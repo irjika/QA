@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hhm7L5MjryWrIF+XFngfjfIGvR5aTmiJnWrRPge34H2VtcRUHxuyDlqqGXe/Vm53/yC+687pe93aE8h/5niRmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ExamPrep1\\ExamPrep1\\Problem1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

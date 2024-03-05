@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8uzop/dxlb2OOm+5vnKymbs/NdL9WN4FpQUNCQ+d/4J8RYHIf5c9I974MY8qxJHSWQZ9drFjLB94a5Q4auKgHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\NestedLoopsAndMethods\\NestedLoopsAndMethods\\StupidPasswords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "miOM5qMgMQNGWh4cx7GebvS7s4kx0oNYIELTLKpm+IlvA49EyDPodPNqgvfB3n2s6JUr4RfderJqKIvT+UplSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Simple and Complex Conditional Statements\\Simple and Complex Conditional Statements\\NumberType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

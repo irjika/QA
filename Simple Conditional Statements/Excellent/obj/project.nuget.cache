@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1BoR0o9+YtQl3kMmAdrA3MVSZqIW7/eUH8UENlvIFILmHrhzobPOUbRAJbNzeXaa7wd6g0vdTOFuXdd0OS+2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Simple Conditional Statements\\Excellent\\Greater Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

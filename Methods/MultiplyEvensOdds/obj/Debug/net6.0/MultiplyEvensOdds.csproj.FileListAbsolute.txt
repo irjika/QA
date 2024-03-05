@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\bin\Debug\net6.0\MultiplyEvensOdds.exe
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\bin\Debug\net6.0\MultiplyEvensOdds.deps.json
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\bin\Debug\net6.0\MultiplyEvensOdds.runtimeconfig.json
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\bin\Debug\net6.0\MultiplyEvensOdds.dll
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\bin\Debug\net6.0\MultiplyEvensOdds.pdb
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.dll
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\refint\MultiplyEvensOdds.dll
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.pdb
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\MultiplyEvensOdds.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Methods\MultiplyEvensOdds\obj\Debug\net6.0\ref\MultiplyEvensOdds.dll

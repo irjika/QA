@@ -1,0 +1,4 @@
+C:\Users\Fori\source\repos\Simple Conditional Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Simple Conditional Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Simple Conditional Statements\CoffeeShop\obj\Debug\net6.0\CoffeeShop.csproj.CoreCompileInputs.cache

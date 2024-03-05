@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\bin\Debug\net6.0\Zadacha 3.exe
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\bin\Debug\net6.0\Zadacha 3.deps.json
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\bin\Debug\net6.0\Zadacha 3.runtimeconfig.json
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\bin\Debug\net6.0\Zadacha 3.dll
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\bin\Debug\net6.0\Zadacha 3.pdb
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.dll
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\refint\Zadacha 3.dll
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.pdb
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\Zadacha 3.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ConsoleApp1\Zadacha 3\obj\Debug\net6.0\ref\Zadacha 3.dll

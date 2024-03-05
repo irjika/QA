@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "++QIjc1qq1Hr059Uz+Y43owtPUVX8+imk7G5o8yamhOiE26we1UVuoKXfFd4EjozIqEhWHo9KvYMtP6m8M+c/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ArraysAndLists\\MergingLists\\MergingLists.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

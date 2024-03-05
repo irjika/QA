@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkRqhbdegyaBXNmODSYXksj4PHu4raYqKLRCw7lKcyq6rirssdIe6ynl8agIPIu5GZ4taffom6ZSXHS/dnGE0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\NestedLoopsAndMethods\\MagicNumber\\MagicNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

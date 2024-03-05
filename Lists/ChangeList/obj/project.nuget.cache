@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wdaK5p1irXu/7SKWIa8g7Qf2/+eSDo9n3bUmtkMEdTSs7e+SMa4HcoJN3amEh084TGyIvpRUp658mNmOhAsqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Lists\\ChangeList\\Remove Negatives and Reverse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

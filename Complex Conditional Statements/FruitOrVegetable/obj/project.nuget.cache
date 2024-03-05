@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "BSXgnH1TrYo2tfgyDVKtV6xmXL24xjiXfkDLGX667GZ9Mu+BpR55bcg+jFYSVXBPmdbXsr0mzYNKetWnZVnamQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Complex Conditional Statements\\FruitOrVegetable\\FruitOrVegetable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

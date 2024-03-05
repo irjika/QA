@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.AssemblyInfo.cs
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\bin\Debug\net6.0\4_Operations.exe
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\bin\Debug\net6.0\4_Operations.deps.json
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\bin\Debug\net6.0\4_Operations.runtimeconfig.json
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\bin\Debug\net6.0\4_Operations.dll
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\bin\Debug\net6.0\4_Operations.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.dll
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\refint\4_Operations.dll
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\4_Operations.genruntimeconfig.cache
+C:\Users\Fori\source\repos\SimpleCalculation\4_Operations\obj\Debug\net6.0\ref\4_Operations.dll

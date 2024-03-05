@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "MFujweOT7DI7UIWMuw96n/GQMbscF28px5vUAseq2mIowVDnx2WL4EEaOBTPEczKSxz0wT9HxaW5HCBWmGd34w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Methods\\RepeatString\\RepeatString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

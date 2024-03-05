@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\bin\Debug\net6.0\MagicNumber.exe
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\bin\Debug\net6.0\MagicNumber.deps.json
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\bin\Debug\net6.0\MagicNumber.runtimeconfig.json
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\bin\Debug\net6.0\MagicNumber.dll
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\bin\Debug\net6.0\MagicNumber.pdb
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.AssemblyInfo.cs
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.dll
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\refint\MagicNumber.dll
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.pdb
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\MagicNumber.genruntimeconfig.cache
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\MagicNumber\obj\Debug\net6.0\ref\MagicNumber.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "plk7ySPbX1KDLGwlAV29KuJt/oYEq0rA9ebmW/aLZQhvXc6MDpiv88ot8fZUPPIeSU0zmdt4pPla0aL79Ii56A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\NestedLoops\\SumOfDigitsCalculator\\SumOfDigitsCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

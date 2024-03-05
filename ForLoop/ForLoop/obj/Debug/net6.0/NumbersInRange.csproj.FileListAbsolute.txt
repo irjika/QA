@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\NumbersInRange.exe
+C:\Users\Fori\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\NumbersInRange.deps.json
+C:\Users\Fori\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\NumbersInRange.runtimeconfig.json
+C:\Users\Fori\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\NumbersInRange.dll
+C:\Users\Fori\source\repos\ForLoop\ForLoop\bin\Debug\net6.0\NumbersInRange.pdb
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.dll
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\refint\NumbersInRange.dll
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.pdb
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\NumbersInRange.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ForLoop\ForLoop\obj\Debug\net6.0\ref\NumbersInRange.dll

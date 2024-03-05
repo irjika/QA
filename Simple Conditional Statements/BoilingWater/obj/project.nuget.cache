@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CazE8nX+8mFZ/Vy0NEijZD8QIs6lEcI0d14cDHB4Y1NyiwILgsbbyE9KYn0XkKJBw6+A/25QLIxc4qCoiUdePg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Simple Conditional Statements\\BoilingWater\\BoilingWater.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

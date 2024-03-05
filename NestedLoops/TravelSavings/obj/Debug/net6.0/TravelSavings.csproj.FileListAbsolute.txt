@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\bin\Debug\net6.0\TravelSavings.exe
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\bin\Debug\net6.0\TravelSavings.deps.json
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\bin\Debug\net6.0\TravelSavings.runtimeconfig.json
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\bin\Debug\net6.0\TravelSavings.dll
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\bin\Debug\net6.0\TravelSavings.pdb
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.AssemblyInfo.cs
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.dll
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\refint\TravelSavings.dll
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.pdb
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\TravelSavings.genruntimeconfig.cache
+C:\Users\Fori\source\repos\NestedLoops\TravelSavings\obj\Debug\net6.0\ref\TravelSavings.dll

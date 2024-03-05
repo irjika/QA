@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\bin\Debug\net6.0\NumberProcessor.exe
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\bin\Debug\net6.0\NumberProcessor.deps.json
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\bin\Debug\net6.0\NumberProcessor.runtimeconfig.json
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\bin\Debug\net6.0\NumberProcessor.dll
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\bin\Debug\net6.0\NumberProcessor.pdb
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.AssemblyInfo.cs
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.dll
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\refint\NumberProcessor.dll
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.pdb
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\NumberProcessor.genruntimeconfig.cache
+C:\Users\Fori\source\repos\WhileLoops\NumberProcessor\obj\Debug\net6.0\ref\NumberProcessor.dll

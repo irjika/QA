@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.exe
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.deps.json
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.runtimeconfig.json
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\bin\Debug\net6.0\ValidTriangle.pdb
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\refint\ValidTriangle.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.pdb
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ValidTriangle.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\ValidTriangle\obj\Debug\net6.0\ref\ValidTriangle.dll

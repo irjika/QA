@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\bin\Debug\net6.0\ExamCountdown.exe
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\bin\Debug\net6.0\ExamCountdown.deps.json
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\bin\Debug\net6.0\ExamCountdown.runtimeconfig.json
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\bin\Debug\net6.0\ExamCountdown.dll
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\bin\Debug\net6.0\ExamCountdown.pdb
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.dll
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\refint\ExamCountdown.dll
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.pdb
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ExamCountdown.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ForLoop\ExamCountdown\obj\Debug\net6.0\ref\ExamCountdown.dll

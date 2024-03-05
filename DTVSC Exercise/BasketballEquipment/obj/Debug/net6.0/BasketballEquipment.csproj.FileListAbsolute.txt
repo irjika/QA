@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.exe
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.deps.json
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.runtimeconfig.json
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.dll
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\bin\Debug\net6.0\BasketballEquipment.pdb
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.AssemblyInfo.cs
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.dll
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\refint\BasketballEquipment.dll
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.pdb
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\BasketballEquipment.genruntimeconfig.cache
+C:\Users\Fori\source\repos\DTVSC Exercise\BasketballEquipment\obj\Debug\net6.0\ref\BasketballEquipment.dll

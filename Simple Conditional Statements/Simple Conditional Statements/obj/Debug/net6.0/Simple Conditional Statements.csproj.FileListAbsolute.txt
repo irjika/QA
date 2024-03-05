@@ -1,0 +1,21 @@
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Simple Conditional Statements.exe
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Simple Conditional Statements.deps.json
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Simple Conditional Statements.runtimeconfig.json
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Simple Conditional Statements.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Simple Conditional Statements.pdb
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\refint\Simple Conditional Statements.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.pdb
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\ref\Simple Conditional Statements.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Greater Number.deps.json
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Greater Number.runtimeconfig.json
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Greater Number.exe
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Greater Number.dll
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\bin\Debug\net6.0\Greater Number.pdb
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.csproj.AssemblyReference.cache
+C:\Users\Fori\source\repos\Simple Conditional Statements\Simple Conditional Statements\obj\Debug\net6.0\Simple Conditional Statements.csproj.CopyComplete

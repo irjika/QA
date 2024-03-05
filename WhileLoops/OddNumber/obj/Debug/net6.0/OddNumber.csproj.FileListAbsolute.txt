@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\bin\Debug\net6.0\OddNumber.exe
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\bin\Debug\net6.0\OddNumber.deps.json
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\bin\Debug\net6.0\OddNumber.runtimeconfig.json
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\bin\Debug\net6.0\OddNumber.dll
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\bin\Debug\net6.0\OddNumber.pdb
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.AssemblyInfo.cs
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.dll
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\refint\OddNumber.dll
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.pdb
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\OddNumber.genruntimeconfig.cache
+C:\Users\Fori\source\repos\WhileLoops\OddNumber\obj\Debug\net6.0\ref\OddNumber.dll

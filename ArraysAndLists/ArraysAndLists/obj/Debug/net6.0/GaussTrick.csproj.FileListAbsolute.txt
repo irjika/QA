@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\GaussTrick.exe
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\GaussTrick.deps.json
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\GaussTrick.runtimeconfig.json
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\GaussTrick.dll
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\GaussTrick.pdb
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.dll
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\refint\GaussTrick.dll
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.pdb
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\GaussTrick.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ref\GaussTrick.dll

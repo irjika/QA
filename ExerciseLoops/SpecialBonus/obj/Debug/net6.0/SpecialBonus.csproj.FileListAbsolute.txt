@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\bin\Debug\net6.0\SpecialBonus.exe
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\bin\Debug\net6.0\SpecialBonus.deps.json
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\bin\Debug\net6.0\SpecialBonus.runtimeconfig.json
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\bin\Debug\net6.0\SpecialBonus.dll
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\bin\Debug\net6.0\SpecialBonus.pdb
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.dll
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\refint\SpecialBonus.dll
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.pdb
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\SpecialBonus.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ExerciseLoops\SpecialBonus\obj\Debug\net6.0\ref\SpecialBonus.dll

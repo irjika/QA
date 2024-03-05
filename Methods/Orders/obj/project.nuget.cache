@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gdQ7WaWra1D1LFTAsj1CV2oDx42jJQ4JVzEuBPll364FloAzzqnqumF5U8bdTGx2w6LnMMK3OmkvT+keG5tP3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Methods\\Orders\\Orders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.exe
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.deps.json
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.runtimeconfig.json
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.dll
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\bin\Debug\net6.0\InchesToCentimetres.pdb
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.dll
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\refint\InchesToCentimetres.dll
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.pdb
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\InchesToCentimetres.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Exercise 1\InchesToCentimetres\obj\Debug\net6.0\ref\InchesToCentimetres.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N3ttfXGGMTZ0Aejgchxutbe0v3uvA3hSqFe2c8bpTM4FLh4OlDgo1cOa3C1RUIDXDfbUaOkky7e+pyj8X3co6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ForLoop\\ForLoop\\NumbersInRange.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.exe
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.deps.json
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.runtimeconfig.json
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.dll
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\bin\Debug\net6.0\SumSeconds.pdb
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.dll
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\refint\SumSeconds.dll
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.pdb
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\SumSeconds.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\SumSeconds\obj\Debug\net6.0\ref\SumSeconds.dll

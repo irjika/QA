@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\bin\Debug\net6.0\DepositCalculator.exe
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\bin\Debug\net6.0\DepositCalculator.deps.json
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\bin\Debug\net6.0\DepositCalculator.runtimeconfig.json
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\bin\Debug\net6.0\DepositCalculator.dll
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\bin\Debug\net6.0\DepositCalculator.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.AssemblyInfo.cs
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.dll
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\refint\DepositCalculator.dll
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\DepositCalculator.genruntimeconfig.cache
+C:\Users\Fori\source\repos\SimpleCalculation\DepositCalculator\obj\Debug\net6.0\ref\DepositCalculator.dll

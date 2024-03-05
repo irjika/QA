@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3Q/1K8KD8yQ/dEj5ZZ1XQWAXXG4gTAocczQcwWtmbuFpnUx9CHZnByqz8LyvK+MOqsE6EwbZxhC3HY7wEg9vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ArraysAndLists\\Sum Adjacent Equal Numbers\\Sum Adjacent Equal Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

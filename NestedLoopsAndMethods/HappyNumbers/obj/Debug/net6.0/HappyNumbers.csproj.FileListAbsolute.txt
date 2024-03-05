@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\bin\Debug\net6.0\HappyNumbers.exe
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\bin\Debug\net6.0\HappyNumbers.deps.json
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\bin\Debug\net6.0\HappyNumbers.runtimeconfig.json
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\bin\Debug\net6.0\HappyNumbers.dll
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\bin\Debug\net6.0\HappyNumbers.pdb
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.AssemblyInfo.cs
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.dll
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\refint\HappyNumbers.dll
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.pdb
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\HappyNumbers.genruntimeconfig.cache
+C:\Users\Fori\source\repos\NestedLoopsAndMethods\HappyNumbers\obj\Debug\net6.0\ref\HappyNumbers.dll

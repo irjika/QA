@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1UXoDugNc5WXISB+p0XMKuxB/ziC13kd2wG+A/22gP9frg0foDLCwb2ySEac+22SMKPT/DsfPBhW8PXq3WrWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\01. String and Text Processing\\02. Repeat Strings\\02. Repeat Strings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\bin\Debug\net6.0\Number Operations.exe
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\bin\Debug\net6.0\Number Operations.deps.json
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\bin\Debug\net6.0\Number Operations.runtimeconfig.json
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\bin\Debug\net6.0\Number Operations.dll
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\bin\Debug\net6.0\Number Operations.pdb
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.dll
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\refint\Number Operations.dll
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.pdb
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\Number Operations.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Simple and Complex Conditional Statements\Number Operations\obj\Debug\net6.0\ref\Number Operations.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X9ykkVm0H2bx+OXq9582U/w4lSmzb8Qx6cOIrMRT/5vUj1srvpXGl1HkCo4qQdeO0RDm8xEVMnYey62CYBmckQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ForLoop\\ExamCountdown\\ExamCountdown.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

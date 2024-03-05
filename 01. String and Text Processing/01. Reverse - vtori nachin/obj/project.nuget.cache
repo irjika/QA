@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TQa8YYAxcfT+yAVi6skAzYedSXVXa1JgHSXXakrhbWOdA6hptTABbJ0im1GetWYz671DvnD5obJldEa5B4qXgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\01. String and Text Processing\\01. Reverse - vtori nachin\\01. Reverse - vtori nachin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

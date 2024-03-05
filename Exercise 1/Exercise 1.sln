@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 1", "Exercise 1\Exercise 1.csproj", "{95098841-25FA-4CC5-A802-989289C512AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exersice 2", "Exersice 2\Exersice 2.csproj", "{B4C8AAA5-EDB4-406D-8D9D-1C6D4A817141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 3", "Exercise 3\Exercise 3.csproj", "{0AD09ABF-D750-49AB-8C86-992174309A99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoid Area", "Trapezoid Area\Trapezoid Area.csproj", "{08208DAB-B252-42D9-8D94-71976CFB8999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle Perimeter", "Triangle Perimeter\Triangle Perimeter.csproj", "{B75464E9-48E7-43B8-B1AE-A6680F92C3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToCentimetres", "InchesToCentimetres\InchesToCentimetres.csproj", "{16AC6197-5789-4887-A2C0-6E6BEC25ACE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95098841-25FA-4CC5-A802-989289C512AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95098841-25FA-4CC5-A802-989289C512AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95098841-25FA-4CC5-A802-989289C512AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95098841-25FA-4CC5-A802-989289C512AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C8AAA5-EDB4-406D-8D9D-1C6D4A817141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C8AAA5-EDB4-406D-8D9D-1C6D4A817141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C8AAA5-EDB4-406D-8D9D-1C6D4A817141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C8AAA5-EDB4-406D-8D9D-1C6D4A817141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD09ABF-D750-49AB-8C86-992174309A99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD09ABF-D750-49AB-8C86-992174309A99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD09ABF-D750-49AB-8C86-992174309A99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD09ABF-D750-49AB-8C86-992174309A99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08208DAB-B252-42D9-8D94-71976CFB8999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08208DAB-B252-42D9-8D94-71976CFB8999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08208DAB-B252-42D9-8D94-71976CFB8999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08208DAB-B252-42D9-8D94-71976CFB8999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75464E9-48E7-43B8-B1AE-A6680F92C3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75464E9-48E7-43B8-B1AE-A6680F92C3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75464E9-48E7-43B8-B1AE-A6680F92C3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75464E9-48E7-43B8-B1AE-A6680F92C3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AC6197-5789-4887-A2C0-6E6BEC25ACE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AC6197-5789-4887-A2C0-6E6BEC25ACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AC6197-5789-4887-A2C0-6E6BEC25ACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AC6197-5789-4887-A2C0-6E6BEC25ACE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6976491C-F63F-4706-860E-DC55023C766F}
+	EndGlobalSection
+EndGlobal

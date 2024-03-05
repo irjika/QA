@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\bin\Debug\net6.0\ConvertorUSDtoEUR.exe
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\bin\Debug\net6.0\ConvertorUSDtoEUR.deps.json
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\bin\Debug\net6.0\ConvertorUSDtoEUR.runtimeconfig.json
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\bin\Debug\net6.0\ConvertorUSDtoEUR.dll
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\bin\Debug\net6.0\ConvertorUSDtoEUR.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.AssemblyInfo.cs
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.dll
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\refint\ConvertorUSDtoEUR.dll
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ConvertorUSDtoEUR.genruntimeconfig.cache
+C:\Users\Fori\source\repos\SimpleCalculation\SimpleCalculation\obj\Debug\net6.0\ref\ConvertorUSDtoEUR.dll

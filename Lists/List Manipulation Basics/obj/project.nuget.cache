@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnMUYm4eTluyweemdr8QsRsob8KYixzPBnxhIj3mpG3c3p0ezsA6uGiXfzJ6gfB6log9NBTsyp7HRjEp1JBfHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Lists\\List Manipulation Basics\\List Manipulation Basics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

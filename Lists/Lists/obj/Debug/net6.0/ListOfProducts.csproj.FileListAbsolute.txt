@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Lists\Lists\bin\Debug\net6.0\ListOfProducts.exe
+C:\Users\Fori\source\repos\Lists\Lists\bin\Debug\net6.0\ListOfProducts.deps.json
+C:\Users\Fori\source\repos\Lists\Lists\bin\Debug\net6.0\ListOfProducts.runtimeconfig.json
+C:\Users\Fori\source\repos\Lists\Lists\bin\Debug\net6.0\ListOfProducts.dll
+C:\Users\Fori\source\repos\Lists\Lists\bin\Debug\net6.0\ListOfProducts.pdb
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.dll
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\refint\ListOfProducts.dll
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.pdb
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ListOfProducts.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Lists\Lists\obj\Debug\net6.0\ref\ListOfProducts.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "h3sIfo19VfNe6LadcQJ+zTtESnyYHtBuMjSKTsOxW3u8sRCJUcDZL+sCHjsH8FuoCF4o1Z/zQMuSM3QLy5JOTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\DataTypesAndVariables\\MetersToKilometers\\MetersToKilometers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\bin\Debug\net6.0\Numbers1To100.exe
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\bin\Debug\net6.0\Numbers1To100.deps.json
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\bin\Debug\net6.0\Numbers1To100.runtimeconfig.json
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\bin\Debug\net6.0\Numbers1To100.dll
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\bin\Debug\net6.0\Numbers1To100.pdb
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.AssemblyInfo.cs
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.dll
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\refint\Numbers1To100.dll
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.pdb
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\Numbers1To100.genruntimeconfig.cache
+C:\Users\Fori\source\repos\WhileLoop\WhileLoop\obj\Debug\net6.0\ref\Numbers1To100.dll

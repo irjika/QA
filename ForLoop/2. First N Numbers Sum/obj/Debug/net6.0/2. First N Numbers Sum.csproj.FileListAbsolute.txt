@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\bin\Debug\net6.0\2. First N Numbers Sum.exe
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\bin\Debug\net6.0\2. First N Numbers Sum.deps.json
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\bin\Debug\net6.0\2. First N Numbers Sum.runtimeconfig.json
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\bin\Debug\net6.0\2. First N Numbers Sum.dll
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\bin\Debug\net6.0\2. First N Numbers Sum.pdb
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.dll
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\refint\2. First N Numbers Sum.dll
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.pdb
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\2. First N Numbers Sum.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ForLoop\2. First N Numbers Sum\obj\Debug\net6.0\ref\2. First N Numbers Sum.dll

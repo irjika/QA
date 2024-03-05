@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\bin\Debug\net6.0\MinMaxInRange.exe
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\bin\Debug\net6.0\MinMaxInRange.deps.json
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\bin\Debug\net6.0\MinMaxInRange.runtimeconfig.json
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\bin\Debug\net6.0\MinMaxInRange.dll
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\bin\Debug\net6.0\MinMaxInRange.pdb
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.dll
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\refint\MinMaxInRange.dll
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.pdb
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\MinMaxInRange.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Exam\MinMaxInRange\obj\Debug\net6.0\ref\MinMaxInRange.dll

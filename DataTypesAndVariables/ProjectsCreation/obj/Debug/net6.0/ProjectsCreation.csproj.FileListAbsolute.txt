@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.exe
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.deps.json
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.runtimeconfig.json
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.dll
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\bin\Debug\net6.0\ProjectsCreation.pdb
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.AssemblyInfo.cs
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.dll
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\refint\ProjectsCreation.dll
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.pdb
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ProjectsCreation.genruntimeconfig.cache
+C:\Users\Fori\source\repos\DataTypesAndVariables\ProjectsCreation\obj\Debug\net6.0\ref\ProjectsCreation.dll

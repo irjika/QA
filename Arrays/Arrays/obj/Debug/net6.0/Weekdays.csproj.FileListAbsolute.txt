@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\Arrays\Arrays\bin\Debug\net6.0\Weekdays.exe
+C:\Users\Fori\source\repos\Arrays\Arrays\bin\Debug\net6.0\Weekdays.deps.json
+C:\Users\Fori\source\repos\Arrays\Arrays\bin\Debug\net6.0\Weekdays.runtimeconfig.json
+C:\Users\Fori\source\repos\Arrays\Arrays\bin\Debug\net6.0\Weekdays.dll
+C:\Users\Fori\source\repos\Arrays\Arrays\bin\Debug\net6.0\Weekdays.pdb
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.AssemblyInfo.cs
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.dll
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\refint\Weekdays.dll
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.pdb
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\Weekdays.genruntimeconfig.cache
+C:\Users\Fori\source\repos\Arrays\Arrays\obj\Debug\net6.0\ref\Weekdays.dll

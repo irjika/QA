@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "SWSQemywZL1JWemeRC8KXM1h8JE5k0flyLbSguzqtI+eo+0xz01EJeoi+Fp7hrXuc+2YMTMrih9RgMHCJ8XxhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ConsoleApp1\\Zadacha 2\\Zadacha 2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

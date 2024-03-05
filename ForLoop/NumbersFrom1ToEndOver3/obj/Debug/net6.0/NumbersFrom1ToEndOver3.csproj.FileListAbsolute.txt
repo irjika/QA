@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\bin\Debug\net6.0\NumbersFrom1ToEndOver3.exe
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\bin\Debug\net6.0\NumbersFrom1ToEndOver3.deps.json
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\bin\Debug\net6.0\NumbersFrom1ToEndOver3.runtimeconfig.json
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\bin\Debug\net6.0\NumbersFrom1ToEndOver3.dll
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\bin\Debug\net6.0\NumbersFrom1ToEndOver3.pdb
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.AssemblyInfo.cs
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.dll
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\refint\NumbersFrom1ToEndOver3.dll
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.pdb
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\NumbersFrom1ToEndOver3.genruntimeconfig.cache
+C:\Users\Fori\source\repos\ForLoop\NumbersFrom1ToEndOver3\obj\Debug\net6.0\ref\NumbersFrom1ToEndOver3.dll

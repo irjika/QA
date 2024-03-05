@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O1b48+1lhkRjB6rOS9ZX+P7lwRa52dVgoNVF6zVEjQM2SgNkStPjTZ+YY9F1cwfXw0vf3UFPADGkMy4svBgA9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\Lists\\ChangeLis\\ChangeLis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

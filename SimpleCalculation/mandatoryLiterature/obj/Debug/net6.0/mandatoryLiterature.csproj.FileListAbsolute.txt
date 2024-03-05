@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\bin\Debug\net6.0\mandatoryLiterature.exe
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\bin\Debug\net6.0\mandatoryLiterature.deps.json
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\bin\Debug\net6.0\mandatoryLiterature.runtimeconfig.json
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\bin\Debug\net6.0\mandatoryLiterature.dll
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\bin\Debug\net6.0\mandatoryLiterature.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.AssemblyInfo.cs
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.dll
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\refint\mandatoryLiterature.dll
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.pdb
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\mandatoryLiterature.genruntimeconfig.cache
+C:\Users\Fori\source\repos\SimpleCalculation\mandatoryLiterature\obj\Debug\net6.0\ref\mandatoryLiterature.dll

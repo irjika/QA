@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Simple Conditional Statements/1.0.0": {
+        "runtime": {
+          "Simple Conditional Statements.dll": {}
+        }
+      },
+      "Greater Number/1.0.0": {
+        "runtime": {
+          "Greater Number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Conditional Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Greater Number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

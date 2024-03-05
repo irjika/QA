@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "867Vd5Wp144pAK3LB4sTTjcuxP0esL5eY5uZBpLj8Q9QUpM8oRtmVOj1r2pFM682U4Atr6uqum2q3WWx09G5RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\NestedLoops\\EvenPowersOf2\\EvenPowersOf2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

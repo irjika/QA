@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/ej0aYpzZzkecUztIn7szjOBIO6UW2xbTNTyjb1KU1T9aLhr15CUYSJyNXSzfr6I97Y5GedGNDehVcpXBVuJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\ExamPrep4\\BiggerNumbers\\BiggerNumbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

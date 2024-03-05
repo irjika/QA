@@ -1,0 +1,14 @@
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\bin\Debug\net6.0\01. Reverse - vtori nachin.exe
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\bin\Debug\net6.0\01. Reverse - vtori nachin.deps.json
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\bin\Debug\net6.0\01. Reverse - vtori nachin.runtimeconfig.json
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\bin\Debug\net6.0\01. Reverse - vtori nachin.dll
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\bin\Debug\net6.0\01. Reverse - vtori nachin.pdb
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.AssemblyInfoInputs.cache
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.AssemblyInfo.cs
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.csproj.CoreCompileInputs.cache
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.dll
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\refint\01. Reverse - vtori nachin.dll
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.pdb
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\01. Reverse - vtori nachin.genruntimeconfig.cache
+C:\Users\Fori\source\repos\01. String and Text Processing\01. Reverse - vtori nachin\obj\Debug\net6.0\ref\01. Reverse - vtori nachin.dll

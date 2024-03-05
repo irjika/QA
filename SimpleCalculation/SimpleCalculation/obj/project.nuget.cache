@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEPu12GT50IFdFreWpU9AwPGMRVy0QHF0fDkq4z0wgQ+kU35ggIdu7LL6yjjXWPU/tewP0XWd5wc2erfM4QNNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fori\\source\\repos\\SimpleCalculation\\SimpleCalculation\\ConvertorUSDtoEUR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Fori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
